@@ -33,7 +33,7 @@ This is a demo of a Streamlit app that shows Origin-Destination extracted from i
 geographical distribution in Thailand. Use the slider
 to pick a specific hour and look at how the charts change.
 [credit source code](https://github.com/streamlit/demo-uber-nyc-pickups/blob/master/app.py),
-[my source code](https://github.com/streamlit/demo-uber-nyc-pickups/blob/master/app.py),
+[my source code](https://github.com/toab1111/Streamlit_web/blob/master/streamlit_web.py),
 [data](https://github.com/Maplub/odsamples)
 """)
 
