@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run streamlit_web.py
+web: sh setup.sh && streamlit run mysl.py
